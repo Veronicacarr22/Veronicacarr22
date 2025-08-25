@@ -33,6 +33,6 @@ Passionate about using technology, project management, and data-driven solutions
 
 ## 📫 Connect
 - **LinkedIn:** [linkedin.com/in/VeronicaCarr](https://www.linkedin.com/in/veronica-carr-613931214/)  
-- **Portfolio (GitHub):** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+- **Portfolio (GitHub):** [github.com/YOUR_USERNAME](https://github.com/Veronicacarr22)  
 
 ---
