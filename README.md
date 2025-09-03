@@ -13,7 +13,7 @@ Passionate about using technology, project management, and data-driven solutions
 - [Resume Similarity & Document Matching](https://github.com/Veronicacarr22/resume-similarity-tfidf)  
   Applied TF-IDF similarity to resumes and academic documents, highlighting strong alignment and automating analysis.
 
-- [PDF Data Extraction Automation](https://github.com/Veronicacarr22/pdf-invoice-extractor)  
+[//]- [PDF Data Extraction Automation](https://github.com/Veronicacarr22/pdf-invoice-extractor)  
   Automated extraction of invoice data from 1,000+ PDFs using Python and pdfplumber, reducing manual effort and improving audit speed.
 
 - [Service Desk NLP Classifier](https://github.com/Veronicacarr22/service-desk-nlp)  
