@@ -13,15 +13,13 @@ Passionate about using technology, project management, and data-driven solutions
 - [Resume Similarity & Document Matching](https://github.com/Veronicacarr22/resume-similarity-tfidf)  
   Applied TF-IDF similarity to resumes and academic documents, highlighting strong alignment and automating analysis.
 
-[//]: # (This is a hidden placeholder link that won't show up: [PDF Data Extraction Automation](https://github.com/Veronicacarr22/pdf-invoice-extractor))
+- 🚧 Coming Soon – Stay Tuned!
   
   Automated extraction of invoice data from 1,000+ PDFs using Python and pdfplumber, reducing manual effort and improving audit speed.
 
-- [Service Desk NLP Classifier](https://github.com/Veronicacarr22/service-desk-nlp)  
+- 🚧 Coming Soon – Stay Tuned!  
   Built classification models to route service desk tickets by department, improving workflow efficiency.
 
-- [AHRC Onboarding Case Study](https://github.com/Veronicacarr22/ahrc-onboarding-case-study)  
-  Process improvement project that cut onboarding time for neurodiverse employees by 25% through structured workflows and training materials.
 
 ---
 
